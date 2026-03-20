@@ -13,8 +13,10 @@ export function Projects() {
             whileHover={{ scale: 1.02 }}
             className="p-6 rounded-xl bg-zinc-900/40 border border-zinc-800 hover:border-zinc-700 transition-colors cursor-default"
           >
-            <h3 className="font-medium text-white text-lg">Project one</h3>
-            <p className="text-sm text-zinc-400 mt-2 leading-relaxed">Short description of the project and technologies used.</p>
+            <h3 className="font-medium text-white text-lg">Grocery Hut</h3>
+            <p className="text-sm text-zinc-400 mt-2 leading-relaxed">
+              A full-stack grocery delivery application built with React and Django.
+            </p>
           </motion.div>
 
           <motion.div
@@ -25,8 +27,10 @@ export function Projects() {
             whileHover={{ scale: 1.02 }}
             className="p-6 rounded-xl bg-zinc-900/40 border border-zinc-800 hover:border-zinc-700 transition-colors cursor-default"
           >
-            <h3 className="font-medium text-white text-lg">Project two</h3>
-            <p className="text-sm text-zinc-400 mt-2 leading-relaxed">Short description of the project and technologies used.</p>
+            <h3 className="font-medium text-white text-lg">Quiz App</h3>
+            <p className="text-sm text-zinc-400 mt-2 leading-relaxed">
+              A dynamic quiz application built with React and FastAPI.
+            </p>
           </motion.div>
         </div>
       </div>
