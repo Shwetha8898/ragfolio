@@ -15,7 +15,7 @@ export function Projects() {
           >
             <h3 className="font-medium text-white text-lg">Grocery Hut</h3>
             <p className="text-sm text-zinc-400 mt-2 leading-relaxed">
-              A full-stack grocery delivery application built with React and Django.
+              A full-stack grocery delivery application built with React and Django. Implemented features such as user authentication, product browsing, shopping cart functionality, stock management and order management.
             </p>
           </motion.div>
 
@@ -29,7 +29,7 @@ export function Projects() {
           >
             <h3 className="font-medium text-white text-lg">Quiz App</h3>
             <p className="text-sm text-zinc-400 mt-2 leading-relaxed">
-              A dynamic quiz application built with React and FastAPI.
+              A dynamic quiz application built with React and FastAPI. Features include real-time scoring, question randomization, and user progress tracking.
             </p>
           </motion.div>
         </div>
